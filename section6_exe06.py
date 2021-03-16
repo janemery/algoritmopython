@@ -30,3 +30,16 @@ Se n > 50
     guarde o valor em se
     imprimir "O valor de salário total é " + st + " e o valor de salário excedente é " + se
     
+_____________
+correção:
+
+e = 0
+receber c 
+receber n 
+se n > 50 então
+    e = (n - 50)
+    n = n - e
+extra = e * 20
+salario = n * 10
+escreva "Salário " + salario
+escreva "Extra " + extra

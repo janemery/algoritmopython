@@ -13,6 +13,19 @@ escrever "Informe a senha"
 receber senha
     Se senha == nome então
         escrever "senha inválida"
-    sair
+        sair
     Senão
         escrever "Senha foi salva com sucesso"
+
+correção
+
+escrever "Informe o nome"
+receber nome
+escrever "Informe a senha"
+receber senha
+Enquanto senha == nome processar
+    escrever "senha não pode ser igual ao nome"
+    escrever "Informe o nome"
+    receber nome
+    escrever "Informe a senha"
+    receber senha

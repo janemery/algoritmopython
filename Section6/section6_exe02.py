@@ -1,7 +1,7 @@
 /*
 Section6_exe02
 */
-
+"""
 elabore um algoritmo que leia um número. Se positivo, 
 armazene-o em 'a', se for negativo, armazene-o em 'b'.
 No final, mostrar o resultado.
@@ -30,3 +30,4 @@ Inicio
         imprime "Valor negativo" + " b = " + b
     Fim Se
 Fim
+"""

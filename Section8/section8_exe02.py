@@ -1,10 +1,10 @@
-/*
+"""
 Section8_exe02
 
 escreva um algoritmo que leia dois vetores de 10 posições e 
 faça a soma dos elementos de mesmo indice, colocando o resultado
  em um terceiro vetor. Mostre o vetor resultante.
-*/
+"""
 solução:
 vetor1 = [1, 2, 3, 4, 5, 6, 7. 8, 9, 10]
 vetor2 = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]

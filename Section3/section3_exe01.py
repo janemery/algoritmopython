@@ -1,9 +1,8 @@
-/*
+"""
 Section3_exe01
-*/
 
 Identifique os dados de entrada, processamento e saida no algoritmo abaixo:
-
+"""
 
 entrada1 = receber codigo da peça
 entrada2 = receber valor da peça

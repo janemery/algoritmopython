@@ -1,4 +1,4 @@
-/*
+"""
 Section6_exe10
 
 Elabore um algoritmo que dada a idade de um nadador
@@ -8,7 +8,7 @@ infantil_b = 8 a 11 anos
 juvenil_a = 12 a 13 anos
 juvenil_b = 14 a 17 anos
 adultos = maiores de 18 anos
-*/
+"""
 
 recebe idade
 Se 5 <= idade <= 7 então

@@ -1,10 +1,10 @@
-/*
+"""
 Section8_exe01
 faça um algoritmo que carregue um vetor de 5 elementos
 inteiros e em seguida armazene em um vetor apenas os 
 números pares maiores que zero. no final deve mostrar
 os elementos do vetor na tela.
-*/
+"""
 
 num lista[5]
 recebe numero

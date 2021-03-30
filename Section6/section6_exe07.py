@@ -1,4 +1,4 @@
-/*
+"""
 Section6_exe07
 
 desenvolva um algoritmo que:
@@ -7,9 +7,7 @@ b) calcule o quadrado de cada um;
 c) Se o valor resultante do quadrado do terceiro for >= 1000
 imprima e finalize;
 Caso contrário, imprima os valores lidos e seus quadrados.
-*/
-
-
+"""
 
 recebe numero 1 e guarde em n1
 recebe numero 2 e guarda em n2

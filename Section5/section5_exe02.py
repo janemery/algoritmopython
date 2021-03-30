@@ -1,9 +1,11 @@
-/*
+"""
 Section5_exe02
-*/
 
 sabendo que a=3 , b=7  e c=4, informe se as expressoes são 
 verdadeiras ou falsas:
+"""
+
+
 
     expressão       true/false
 

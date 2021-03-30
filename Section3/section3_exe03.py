@@ -1,8 +1,9 @@
-/*
+"""
 Section3_exe03
-*/
 
 Teste o algoritmo com seus dados "calcular o estoque médio de uma peça", sendo que:
+"""
+
 
 estoque médio = (quantidade mínima + quantidade máxima)/2
 

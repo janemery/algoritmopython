@@ -1,4 +1,8 @@
+"""
+Section2_exe04
+
 Faça um algoritmo para trocar uma lampada
+"""
 
 
 passo 1: Pegue uma escada

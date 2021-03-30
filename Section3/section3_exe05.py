@@ -1,8 +1,10 @@
-/*
+"""
 Section3_exe05
-*/
 
 Faca um algoritmo que converta metros para centimetros
+
+"""
+
 
 receber quantidade em metros
 multiplicar quantidade por 100

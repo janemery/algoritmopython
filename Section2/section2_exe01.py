@@ -1,4 +1,7 @@
+"""
+Section2_exe01
 crie uma sequencia logica para tomar banho
+"""
 
 passo 1: Entrar no banheiro
 passo 2: Tirar a roupa

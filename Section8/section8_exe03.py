@@ -1,9 +1,9 @@
-/*
+"""
 Section8_exe03
 Faça um programa que carregue um vetor com 10 numeros
 inteiros. mostre o vetor na ordem inversa ao que foi digitado.
+"""
 
-*/
 solução:
 
 vetor = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

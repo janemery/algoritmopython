@@ -1,10 +1,12 @@
-/*
+"""
 Section5_exe01
-*/
 
 Tendo as variáveis salário, ir e salliq, e
 considerando os valores abaixo, informe se as expressoes são
 verdadeiras ou falsas
+"""
+
+
 
 salario         IR          salliq      expressao               true/false
 100,00          0           100,00      (salliq >=100,00)           true

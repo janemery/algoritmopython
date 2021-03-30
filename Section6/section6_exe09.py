@@ -1,4 +1,4 @@
-/*
+"""
 Section6_exe09
 
 A Secretaria de meio ambiente que controla o indice de poluição
@@ -11,7 +11,7 @@ suas atividades, se o índice atingir 0,5 todos os grupos devem
 ser notificados a paralisarem suas atividades. Faca um algoritmo
 que leia o índice de poluição medido e emita a notificação adequada
 aos diferentes grupos de empresas
-*/
+"""
 
 indiceP = 0,25
 limiteG1 = 0,3

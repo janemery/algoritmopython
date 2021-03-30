@@ -1,6 +1,5 @@
-/*
+"""
 Section6_exe06
-*/
 
 elabore um algoritmo que leia as variáveis 'c' e 'n', respectivamente
 código e número de horas trabalhadas de um operário. Calcule o salário
@@ -9,6 +8,7 @@ exceder a 50 calcule o excesso de pagamento armazenando-a na variável
 'e' (excesso). Caso contrário zerar tal variável. A hora excedente
 de trabalho vale R$ 20,00. No final do processamento imprimir o 
 salário total e o salário excedente.
+"""
 
 c = código
 n = numero

@@ -1,10 +1,10 @@
-/*
+"""
 Section6_exe03
-*/
 
 ler um número e verificar se ele é par ou impar. quando for 
 par, armazene esse valor em 'p' e quando for impar armazená-lo em 'i'.
 exibir 'p' e 'i' no final do processo.
+"""
 
 Inicio
 Receber um número

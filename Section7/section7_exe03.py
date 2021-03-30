@@ -1,9 +1,9 @@
-/*
+"""
 Section7_exe03
 
 Elabore um programa que gera e escreve os números impares
 dos numeros entre 100 e 200. 
-*/
+"""
 
 numero = 100
 recebe numero

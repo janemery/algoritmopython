@@ -1,4 +1,4 @@
-/*
+"""
 Section7_exe06
 
 desenvolva um gerador de tabuada, capaz de gerar
@@ -12,7 +12,7 @@ Tabuada de 5:
 5 X 2 = 10
 ...
 5 X 10 = 50
-*/
+"""
 
 escrever "Qual o número que você deseja ver a tabuada?"
 receber numero

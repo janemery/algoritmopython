@@ -1,7 +1,6 @@
-/*
+"""
 Section6_exe05
-*/
-/*
+
 João da Silva, pescador, comprou um microcomputador para controlar 
 o rendimento diário de seu trabalho. Toda vez que ele traz um peso
 peixes maior que o estabelecido pelo regulamento de pesca do estado
@@ -11,7 +10,7 @@ joão precisa que você faça um algoritimo que leia a variavel 'p'
 na variável 'e' (excesso) e na variavel 'm' o valor de multa que 
 joão deverá pagar. Caso contrário mostrar tais variáveis com o 
 conteudo 'zero'.
-*/
+"""
 
 e = 0
 m = 0

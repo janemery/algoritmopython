@@ -1,10 +1,10 @@
-/*
+"""
 Section6_exe08
 
 Faça um algoritmo que leia um número inteiro e mostre
 uma mensagem indicando se esse número é par ou impar,
 se é positivo ou negativo;
-*/
+"""
 
 receba o numero
 se numero / numero == 1 então
@@ -19,8 +19,7 @@ se numero / numero == 1 então
             imprimir numero + " número é impar e negativo"
 senão
     número inválido
-
-_____________
+Fim se
 
 correção
 

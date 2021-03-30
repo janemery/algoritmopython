@@ -13,7 +13,7 @@ que leia o índice de poluição medido e emita a notificação adequada
 aos diferentes grupos de empresas
 */
 
-indiceP = 0,05
+indiceP = 0,25
 limiteG1 = 0,3
 limiteG2 = 0,4
 limiteG3 = 0,5

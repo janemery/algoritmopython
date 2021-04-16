@@ -13,4 +13,4 @@ verdadeiras ou falsas:
 b >= (a + 2)    |   true
 c == (b - a)    |   true
 (b + a) <= c    |   false
-(c + a) > b     |   false
+(c + a) > b     

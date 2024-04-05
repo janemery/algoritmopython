@@ -1,2 +1,1 @@
-# algoritmopython
-curso udemy algoritmos com python
+# Curso de Python 3 do básico ao avançado - com projetos reais
